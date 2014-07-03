@@ -1,4 +1,4 @@
-seed-element
+My-tabs element
 ================
 
 See the [component page](http://polymerlabs.github.io/seed-element) for more information.
