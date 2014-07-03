@@ -1,0 +1,7 @@
+{
+  "name": "my-tabs#gh-pages",
+  "private": true,
+  "dependencies": {
+    "my-tabs": "sureshg/my-tabs#master"
+  }
+}
